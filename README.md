@@ -5,3 +5,7 @@ Step 1: <code>npm install</code>
 To RUN the server run in terminal: 
 
 Step 2: <code>npm start</code>
+
+Build the project: 
+
+Step 3: <code>npm build</code>
